@@ -17,12 +17,12 @@
 			arguments of mysql_connect(). -->
 		<!-- <init-param> <param-name>database</param-name> <param-value>jdbc/test</param-value> 
 			</init-param> -->
-		<!-- 
+		 
 		<init-param> 
 			 <param-name>ini-file</param-name> 
 			 <param-value>WEB-INF/php.ini</param-value> 
 		</init-param>
- 		-->
+ 		
 		<!-- Location of the license to enable php to java compilation. -->
 		<init-param>
 			<param-name>license-directory</param-name>
