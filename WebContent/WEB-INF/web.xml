@@ -41,7 +41,7 @@
 
 	<filter>
 		<filter-name>ExpireHeaderFilter</filter-name>
-		<filter-class>com.butterfly.filter.ExpireHeaderFilter</filter-class>
+		<filter-class>me.shenfeng.filter.ExpireHeaderFilter</filter-class>
 	</filter>
 	<filter-mapping>
 		<filter-name>ExpireHeaderFilter</filter-name>
